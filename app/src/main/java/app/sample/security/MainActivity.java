@@ -1,3 +1,4 @@
+
 package app.sample.security;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -10,5 +11,12 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        int data = 0;
+
+        if(data == 0){
+            if(data == 1){
+
+            }
+        }
     }
 }
